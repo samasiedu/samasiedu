@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Samuel!
 
-🎓 Civil Engineering Graduate | 🏗️ Geotechnical Engineering Enthusiast | 🖥️ Learning Python & R
+🎓 Civil Engineering Graduate | 🏗️ Geotechnical Engineering Enthusiast | @Python & R
 
-## 🌍 About Me
-Passionate about Geotechnical Engineering, especially geophysics and ground improvement techniques.
+## About Me
+Interested in Soil Improvement techniques and Computaional Geomechanics.
 Currently a Teaching Assistant, guiding students in engineering concepts.
 Exploring Python & R for data analysis and automation through courses like Google IT Automation with Python.
 Actively researching emerging trends in geotechnical engineering to shape my future studies.
