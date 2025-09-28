@@ -1,28 +1,18 @@
-## 👋 Hi, I'm Samuel!
+# Hi, I'm Samuel!
 
-🎓 Civil Engineering Graduate | 🏗️ Geotechnical Engineering Enthusiast | @Python & R
+🎓 Civil Engineering Graduate | 🏗️ Geotechnical Engineering Enthusiast | Python & R
 
-## About Me
-Interested in Soil Improvement techniques and Computaional Geomechanics.
-Currently a Teaching Assistant, guiding students in engineering concepts.
-Exploring Python & R for data analysis and automation through courses like Google IT Automation with Python.
-Actively researching emerging trends in geotechnical engineering to shape my future studies.
 
-## 🚀 What I'm Working On
-📖 Completing the Google IT Automation with Python certification.
-📊 Enhancing my skills in Python & R with Code Youth Ghana.
-📚 Reviewing research papers to identify gaps in geophysics and ground improvement for potential research.
-
-# 💡 Interests & Goals
-Bridging engineering & technology through coding and automation.
-Ai Integration into Geotechnical Investigations.
-Expanding my professional network in the engineering and tech community.
+# About Me
+Research and Teaching Assistant in geotechnical engineering and soil mechanics from KNUST.  
+Experienced in Python, R, PLAXIS, RocData, and geotechnical lab testing.  
+Interested in applying research and practical skills to infrastructure development and education.  
 
 # 📫 Let's Connect!
 💼 LinkedIn: Samuel Asiedu, S.M.ASCE
 📝 GitHub: samasiedu
 📧 Email: samuelasiedu.ce@gmail.com
-Feel free to connect, collaborate, or just say hi! 😊
+Feel free to connect, collaborate, or just say hi! 
 
 <!--
 **samasiedu/samasiedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
