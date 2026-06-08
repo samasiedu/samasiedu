@@ -4,18 +4,16 @@
 
 
 # About Me
-Research and Teaching Assistant in geotechnical engineering and soil mechanics from KNUST.
+-Research and Teaching Assistant in geotechnical engineering and soil mechanics from KNUST  
+-Experienced in Python, R, PLAXIS, RocData, and geotechnical lab testing  
+-Interested in applying research and practical skills to infrastructure development and education  
 
-Experienced in Python, R, PLAXIS, RocData, and geotechnical lab testing. 
+# 📫 **How to reach me:**
 
-Interested in applying research and practical skills to infrastructure development and education.  
-
-**# 📫 How to reach me:**
-
-💼 LinkedIn: Samuel Asiedu, S.M.ASCE
-📝 GitHub: samasiedu
-📧 Email: samuelasiedu.ce@gmail.com
-Feel free to connect, collaborate, or just say hi! 
+💼 LinkedIn: Samuel Asiedu, S.M.ASCE  
+📝 GitHub: samasiedu  
+📧 Email: samuelasiedu.ce@gmail.com  
+Feel free to connect, collaborate, or just say hi!  
 
 <!--
 **samasiedu/samasiedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
