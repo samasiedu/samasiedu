@@ -1,14 +1,17 @@
 # Hi, I'm Samuel!
 
-🎓 Civil Engineering Graduate | 🏗️ Geotechnical Engineering Enthusiast | Python & R
+🎓 Civil Engineering Graduate | 🏗️ Geotechnical Engineering 
 
 
 # About Me
-Research and Teaching Assistant in geotechnical engineering and soil mechanics from KNUST.  
-Experienced in Python, R, PLAXIS, RocData, and geotechnical lab testing.  
+Research and Teaching Assistant in geotechnical engineering and soil mechanics from KNUST.
+
+Experienced in Python, R, PLAXIS, RocData, and geotechnical lab testing. 
+
 Interested in applying research and practical skills to infrastructure development and education.  
 
-# 📫 Let's Connect!
+**# 📫 How to reach me:**
+
 💼 LinkedIn: Samuel Asiedu, S.M.ASCE
 📝 GitHub: samasiedu
 📧 Email: samuelasiedu.ce@gmail.com
