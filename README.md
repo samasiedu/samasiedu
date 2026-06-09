@@ -4,8 +4,9 @@ Bridging traditional Geotechnical Engineering with **AI/ML** to quantify soil un
 
 ---
 
+
 ### 🤝 Connect with me
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/slasiedu)
+[](www.linkedin.com/in/slasiedu)
 [![GitHub](https://shields.io)](https://github.com/samasiedu)
 
 ---
