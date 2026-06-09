@@ -77,9 +77,9 @@ I am passionate about leveraging data-driven approaches, machine learning, and u
 
 ## 📈 GitHub Statistics
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samasiedu&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samasiedu&layout=compact)
 
 ---
 
