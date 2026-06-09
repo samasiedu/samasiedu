@@ -1,35 +1,28 @@
-# Hi, I'm Samuel!
+# Hi there, I'm Samuel! 👋
+Civil Engineering Graduate 🎓 & Research/Teaching Assistant at KNUST 👷‍♂️. 
+Bridging traditional Geotechnical Engineering with **AI/ML** to quantify soil uncertainties and improve structural reliability 📊.
 
-🎓 Civil Engineering Graduate | 🏗️ Geotechnical Engineering 
+---
 
+### 🤝 Connect with me
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/slasiedu)
+[![GitHub](https://shields.io)](https://github.com/samasiedu)
 
-# About Me
--Research and Teaching Assistant in geotechnical engineering and soil mechanics from KNUST  
--Experienced in Python, R, PLAXIS, RocData, and geotechnical lab testing  
--Interested in applying research and practical skills to infrastructure development and education  
+---
 
-# 📫 **How to reach me:**
+### 💼 Technical Skills
+![Python](https://shields.io) ![R](https://shields.io) ![PLAXIS](https://shields.io) ![RocData](https://shields.io) ![AutoCAD](https://shields.io)
 
-💼 LinkedIn: Samuel Asiedu, S.M.ASCE  
-📝 GitHub: samasiedu  
-📧 Email: samuelasiedu.ce@gmail.com  
-Feel free to connect, collaborate, or just say hi!  
+---
 
-<!--
-**samasiedu/samasiedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Current Focus
+- 🚀 **Research:** Geotechnical reliability analysis & data-driven site investigations at KNUST.
+- 📊 **Workflows:** Utilizing Python and R to map spatial soil variability.
+- 🌱 **Learning:** Probabilistic machine learning models and reliability-based design (RBD).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
+### 📜 Courses & Certifications
+- 🏗️ **Dam Design Course** – Ghana Geotechnical Society (GGS)
+- 🏫 **Harvard ALP '25** – Participant / Alumnus
+- 📜 *Machine Learning using Python*
