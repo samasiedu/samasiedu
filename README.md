@@ -1,5 +1,9 @@
 # Hi there, I'm Samuel 👋
 
+--- 
+**PhD student @ University of New Hampshire**
+
+---
 🎓 First Class Civil Engineering Graduate from KNUST  
 👷 Research & Teaching Assistant in Geotechnical Engineering  
 📊 Exploring the intersection of Geotechnical Engineering, Artificial Intelligence, and Reliability Analysis
