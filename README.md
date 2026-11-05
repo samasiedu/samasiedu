@@ -11,18 +11,13 @@
 - 🎓 First Class Civil Engineering Graduate from KNUST
 ---
 
-## Research Interests
-- Geotechnical Reliability Analysis
-- AI/ML in Geotechnical Engineering
-- Ground Improvement and Pavement Engineering
-- Spatial Variability Characterization using Python and R
----
+| Research Interests | 🌱 Currently Learning |
+|---|---|
+| Geotechnical Reliability Analysis | Reliability-Based Design (RBD) |
+| AI/ML in Geotechnical Engineering | Deep Learning for Engineering Applications |
+| Ground Improvement and Pavement Engineering | Agentic AI Systems for Infrastructure Decision-Making |
+| Spatial Variability Characterization using Python and R | |
 
-## 🌱 Currently Learning
-
-- Reliability-Based Design (RBD)
-- Deep Learning for Engineering Applications
-- Agentic AI Systems for Infrastructure Decision-Making
 ---
 
 ## 🧰 Technical Stack
@@ -59,15 +54,6 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>
-
-
----
-## 📈 GitHub Stats
-
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samasiedu&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samasiedu&layout=compact&hide_border=true)
-
 ---
 
 ### 💡 Research Philosophy
